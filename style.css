@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  background-color: orange;
+}
+.sub1 {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  width: 390px;
+  height: 450px;
+  color: yellow;
+  background: url("https://www.tasteofhome.com/wp-content/uploads/2021/01/tasty-butter-chicken-curry-dish-from-indian-cuisine-1277362334.jpg");
+  background-repeat: round;
+  background-size: contain;
+  padding: 70px 40px 5px 40px;
+  font-size: large;
+  font-weight: 900;
+  font-family: cursive;
+}
